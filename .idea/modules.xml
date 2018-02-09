@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileDownload/FileDownload.iml" filepath="$PROJECT_DIR$/FileDownload/FileDownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client.iml" filepath="$PROJECT_DIR$/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbgenerate/dbgenerate.iml" filepath="$PROJECT_DIR$/dbgenerate/dbgenerate.iml" />
+      <module fileurl="file://G:\imooc\httpproject\client\download2\download2.iml" filepath="G:\imooc\httpproject\client\download2\download2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http/http.iml" filepath="$PROJECT_DIR$/http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://G:\imooc\httpproject\client\okhttp3.iml" filepath="G:\imooc\httpproject\client\okhttp3.iml" />
+    </modules>
+  </component>
+</project>
